@@ -6,7 +6,7 @@ Project Goals
 - Use data cleaning and preprocessing techniques
 - Perform visual exploratory analysis to identify key patterns
 - Prepare the dataset for future machine learning model
-- 
+  
 • Objective
 The objective of this project is to answer t-he question: "What features are most indicative of malignant or benign breast cancer tumors?" By analyzing the Wisconsin Breast Cancer Dataset, we aim to develop a reliable model for breast cancer diagnosis.
 
